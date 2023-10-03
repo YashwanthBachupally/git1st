@@ -1,0 +1,4 @@
+entering file content from git hub
+these changes can't be reflected into local system until you pull
+git pull <remote-repo-name> is syntax for git pull 
+git pull 
