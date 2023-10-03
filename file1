@@ -1,0 +1,6 @@
+The remote repo name is a unique identifier for a remote repository. 
+It is used to reference the remote repository when performing Git operations such as pushing, pulling, and fetching.
+
+Remote repo names can be any string, but it is common to use descriptive names such as origin, upstream, and staging.
+
+For example, the following command removes a remote repo named staging
